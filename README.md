@@ -26,5 +26,5 @@ If you want to read some poetry：
 
 [古诗大全_古代诗歌大全_古诗文网 (gushiwen.cn)](https://www.gushiwen.cn/gushi/)
 
-[加油！](https://img1.baidu.com/it/u=2120242277,2862452986&fm=253&fmt=auto&app=138&f=GIF?w=497&h=500)
+![加油！](https://img1.baidu.com/it/u=2120242277,2862452986&fm=253&fmt=auto&app=138&f=GIF?w=497&h=500)
 
