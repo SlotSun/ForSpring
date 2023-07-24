@@ -32,6 +32,10 @@ Chinese Calligraphy:
 
 [毛笔字在线生成](http://www.akuziti.com/mb/)
 
+English and Chinese:
+
+[双语报告与白皮书 / 习大大双语演讲致辞_高斋_专注CATTI翻译考试与翻译硕士MTI考研及各类英语考试的知识性学习平台 (gaozhaiedu.com)](https://www.gaozhaiedu.com/html/whitepaper/xidadashuangyuyanjiangzhici/)
+
 ![加油！](https://img1.baidu.com/it/u=2120242277,2862452986&fm=253&fmt=auto&app=138&f=GIF?w=497&h=500)
 
 
