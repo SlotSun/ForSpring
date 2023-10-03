@@ -40,20 +40,20 @@ English and Chinese:
 
 2023.10.03：Chinese culture and history
 I give u some keywords and u can seach them in wiki!
-中国节日（农历：the lunar calendar）：
-春节：https://zh.wikipedia.org/wiki/%E6%98%A5%E7%AF%80 
-元宵节：https://zh.wikipedia.org/wiki/%E5%85%83%E5%AE%B5%E8%8A%82 
-花朝节：https://zh.wikipedia.org/wiki/%E8%8A%B1%E6%9C%9D%E7%AF%80 
-清明节：https://zh.wikipedia.org/wiki/%E6%B8%85%E6%98%8E%E7%AF%80 
-端午节：https://zh.wikipedia.org/wiki/%E7%AB%AF%E5%8D%88%E8%8A%82 
-七夕：https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%B8%83%E5%A4%95 
-中元节：https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%B8%83%E5%A4%95 
-中秋节：https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%A7%8B%E8%8A%82 
-重阳节：https://zh.wikipedia.org/wiki/%E9%87%8D%E9%99%BD%E7%AF%80 
-冬至：https://zh.wikipedia.org/wiki/%E5%86%AC%E8%87%B3 
-腊八节：https://zh.wikipedia.org/wiki/%E8%87%98%E5%85%AB%E7%AF%80 
-小年：https://zh.wikipedia.org/wiki/%E7%A5%AD%E7%81%B6%E6%97%A5 
-除夕：https://zh.wikipedia.org/wiki/%E9%99%A4%E5%A4%95 
+中国节日（农历：the lunar calendar）：  
+春节：https://zh.wikipedia.org/wiki/%E6%98%A5%E7%AF%80  
+元宵节：https://zh.wikipedia.org/wiki/%E5%85%83%E5%AE%B5%E8%8A%82  
+花朝节：https://zh.wikipedia.org/wiki/%E8%8A%B1%E6%9C%9D%E7%AF%80  
+清明节：https://zh.wikipedia.org/wiki/%E6%B8%85%E6%98%8E%E7%AF%80  
+端午节：https://zh.wikipedia.org/wiki/%E7%AB%AF%E5%8D%88%E8%8A%82  
+七夕：https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%B8%83%E5%A4%95   
+中元节：https://zh.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%B8%83%E5%A4%95   
+中秋节：https://zh.wikipedia.org/wiki/%E4%B8%AD%E7%A7%8B%E8%8A%82   
+重阳节：https://zh.wikipedia.org/wiki/%E9%87%8D%E9%99%BD%E7%AF%80   
+冬至：https://zh.wikipedia.org/wiki/%E5%86%AC%E8%87%B3   
+腊八节：https://zh.wikipedia.org/wiki/%E8%87%98%E5%85%AB%E7%AF%80   
+小年：https://zh.wikipedia.org/wiki/%E7%A5%AD%E7%81%B6%E6%97%A5   
+除夕：https://zh.wikipedia.org/wiki/%E9%99%A4%E5%A4%95   
 
 中国纪念日：
 五一劳动节（05.01）放假三天
